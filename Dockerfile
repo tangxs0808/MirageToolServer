@@ -16,4 +16,6 @@ WORKDIR /app
 
 COPY --from=builder /app/main .
 
+COPY config /app/config
+
 CMD ["/app/main"]
