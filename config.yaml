@@ -1,0 +1,4 @@
+db:
+  path: db.sqlite
+weixin:
+  url: https://api.weixin.qq.com
