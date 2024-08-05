@@ -2,5 +2,3 @@ db:
   path: db.sqlite
 weixin:
   url: https://api.weixin.qq.com
-  app_id: <微信小程序ID>
-  app_secret: <微信小程序密钥>
